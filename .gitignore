@@ -13,6 +13,32 @@ bin/
 lib/
 include/
 
+# Distribuição / Pacotes
+dist/
+build/
+*.egg-info/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+
+# Variáveis de ambiente (Segurança!)
+# Nunca suba arquivos que contenham senhas ou chaves de API
+.env
+.venv
+instance/
+.pytest_cache/
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
 # Ignora o arquivo de log do terminal
 terminal.txt
 
