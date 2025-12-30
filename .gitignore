@@ -44,4 +44,3 @@ terminal.txt
 
 # Ignora TUDO dentro da pasta ollama_models (blobs, manifests, etc)
 ollama_models/blobs/
-ollama_models/manifests/registry.ollama.ai/library/llama3.1/8b
