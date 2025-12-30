@@ -44,3 +44,5 @@ terminal.txt
 
 # Ignora TUDO dentro da pasta ollama_models (blobs, manifests, etc)
 ollama_models/blobs/
+
+.webui_secret_key
