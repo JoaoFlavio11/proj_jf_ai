@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (Virtual Environments)
+# É crucial não subir esses arquivos, pois são pesados e específicos de cada PC
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Ignora o arquivo de log do terminal
+terminal.txt
+
+# Ignora TUDO dentro da pasta ollama_models (blobs, manifests, etc)
+ollama_models/blobs/
+ollama_models/manifests/registry.ollama.ai/library/llama3.1/8b
