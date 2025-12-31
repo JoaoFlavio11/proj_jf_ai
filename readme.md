@@ -1,6 +1,8 @@
 # Projeto VaultScript AI
 Este é um projeto focado em Inteligência Artificial, utilizando modelos locais (Ollama) para processamento de linguagem natural.
 
+![Banner VaultScript AI](./assets/vault-image.png)
+
 ## 🚀 Funcionalidades
 * Integração com modelos de linguagem locais.
 * Processamento de dados em Python.
